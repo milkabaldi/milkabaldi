@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milkabaldi
 - 👀 I’m interested in Books and Coffee
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my mail
 
