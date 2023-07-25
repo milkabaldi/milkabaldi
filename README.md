@@ -28,4 +28,7 @@ You can click the Preview link to take a look at your changes.
          
 <br>
 
-https://www.codewars.com/users/milkabaldi/badges/large
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">       
+<image xlink:href="https://www.codewars.com/users/milkabaldi/badges/large"/>    
+</svg>
+
